@@ -15,6 +15,7 @@ The resulting cleaned data is stored in a PostgreSQL database for future use. Th
 The solution is a comprehensive approach to prevent equipment failures and optimize equipment performance in the telecommunications industry.
 
 Google Colab Notebook:       https://colab.research.google.com/drive/15n_kJlofTMWPNIoUGEWTp5Ha4E7z0fJu?usp=sharing
+
 Dataset source:              https://bit.ly/3YNdO2Y
 
 
